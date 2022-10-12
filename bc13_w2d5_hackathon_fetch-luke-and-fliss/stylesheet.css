@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  h2 {
+    text-align: center;
+    color: red;
+  }
+  
+.imagealign {
+    margin: 10px auto 20px;
+    display: block;
+}
+ol {
+    text-align: center;
+    color: white;
+}
+li {
+    text-align: center;
+    color: white;
+}
+button {
+    margin: auto;
+    display: block;
+}
